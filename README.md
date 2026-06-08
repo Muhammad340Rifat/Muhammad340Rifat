@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for Test Automation using Selenium and Advanced QA Practiceshelp with **DISWeb**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, PHP, Laravel Basics, Manual Testing, Test Case Design, Bug Reporting, SDLC & STLC**
+- 💬 Ask me about **HTML, CSS, JavaScript, SQL, Laravel Basics, Manual Testing, Test Case Design, Bug Reporting, SDLC & STLC**
 
 - 📫 How to reach me **muhammadrifatmistcse@gmail.com**
 
