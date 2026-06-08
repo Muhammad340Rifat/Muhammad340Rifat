@@ -1,3 +1,4 @@
+<img src="Screenshot 2026-06-08 102759">
 <h1 align="center">Hi 👋, I'm Muhammad Rifat</h1>
 <h3 align="center">A passion💻 CSE Graduate | Web Developer | SQA Enthusiast passionate about building responsive web applications, ensuring software quality, and continuously learning modern technologies like Laravel and test automation.ate frontend developer from India</h3>
 
