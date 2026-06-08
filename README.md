@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad340rifat" alt="muhammad340rifat" /></a> </p>
 
-- 🔭 I’m cuSchool Website and QA Testing Projectsrrently working on **DISWeb**
+- 🔭 I’m currently working on School Website and QA Testing Projectsrrently working on **DISWeb**
 
 - 🌱 I’m currently learning **Laravel, Selenium WebDriver, API Testing, and Software Quality Assurance Best Practices**
 
